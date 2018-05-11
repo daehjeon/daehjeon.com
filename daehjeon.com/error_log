@@ -1,0 +1,587 @@
+[30-Mar-2012 19:29:04] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/daehjeon/public_html/email.php on line 10
+[30-Mar-2012 20:20:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'daehjeon'@'localhost' (using password: NO) in /home/daehjeon/public_html/email.php on line 9
+[30-Mar-2012 20:20:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/daehjeon/public_html/email.php on line 9
+[30-Mar-2012 20:34:40] PHP Warning:  include(Dae_Jeon_Resume) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/daehjeon/public_html/resume.php on line 19
+[30-Mar-2012 20:34:40] PHP Warning:  include(Dae_Jeon_Resume) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/daehjeon/public_html/resume.php on line 19
+[30-Mar-2012 20:34:40] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Dae_Jeon_Resume' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daehjeon/public_html/resume.php on line 19
+[30-Mar-2012 20:34:55] PHP Warning:  include(Dae_Jeon_Resume) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/daehjeon/public_html/resume.php on line 19
+[30-Mar-2012 20:34:55] PHP Warning:  include(Dae_Jeon_Resume) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/daehjeon/public_html/resume.php on line 19
+[30-Mar-2012 20:34:55] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Dae_Jeon_Resume' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daehjeon/public_html/resume.php on line 19
+[30-Mar-2012 20:34:55] PHP Warning:  include(Dae_Jeon_Resume) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/daehjeon/public_html/resume.php on line 19
+[30-Mar-2012 20:34:55] PHP Warning:  include(Dae_Jeon_Resume) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/daehjeon/public_html/resume.php on line 19
+[30-Mar-2012 20:34:55] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Dae_Jeon_Resume' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daehjeon/public_html/resume.php on line 19
+[30-Mar-2012 20:34:56] PHP Warning:  include(Dae_Jeon_Resume) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/daehjeon/public_html/resume.php on line 19
+[30-Mar-2012 20:34:56] PHP Warning:  include(Dae_Jeon_Resume) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/daehjeon/public_html/resume.php on line 19
+[30-Mar-2012 20:34:56] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Dae_Jeon_Resume' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daehjeon/public_html/resume.php on line 19
+[02-Apr-2012 18:47:04] PHP Parse error:  syntax error, unexpected '<' in /home/daehjeon/public_html/test.php on line 2
+[02-Apr-2012 18:47:12] PHP Warning:  file_get_contents(www.daehjeon.com) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/daehjeon/public_html/test.php on line 2
+[02-Apr-2012 18:47:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/test.php:2) in /home/daehjeon/public_html/test.php on line 11
+[12-Apr-2012 16:39:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/daehjeon/public_html/resume.php:6) in /home/daehjeon/public_html/config.php on line 14
+[12-Apr-2012 16:39:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/resume.php:6) in /home/daehjeon/public_html/config.php on line 14
+[12-Apr-2012 16:39:24] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/daehjeon/public_html/resume.php:6) in /home/daehjeon/public_html/config.php on line 14
+[12-Apr-2012 16:39:24] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/resume.php:6) in /home/daehjeon/public_html/config.php on line 14
+[13-Apr-2012 21:17:45] PHP Parse error:  syntax error, unexpected '{' in /home/daehjeon/public_html/admin.php on line 8
+[13-Apr-2012 21:21:20] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 14
+[13-Apr-2012 21:21:20] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 14
+[13-Apr-2012 21:22:13] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:22:13] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:22:14] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:22:14] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:22:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:22:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:22:47] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:22:47] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:23:06] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/daehjeon/public_html/index.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:23:06] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/index.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:23:07] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/daehjeon/public_html/index.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:23:07] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/index.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:27:09] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:27:09] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:27:11] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:27:11] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:28:06] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:28:06] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:28:07] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:28:07] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:29:38] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:29:38] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:29:39] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:29:39] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/admin.php:6) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:29:41] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/daehjeon/public_html/resume.php:5) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:29:41] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/resume.php:5) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:29:43] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/daehjeon/public_html/resume.php:5) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:29:43] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/resume.php:5) in /home/daehjeon/public_html/config.php on line 3
+[13-Apr-2012 21:30:16] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/resume.php:5) in /home/daehjeon/public_html/resume.php on line 7
+[13-Apr-2012 21:30:26] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/resume.php:5) in /home/daehjeon/public_html/resume.php on line 7
+[13-Apr-2012 21:30:27] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/resume.php:5) in /home/daehjeon/public_html/resume.php on line 7
+[13-Apr-2012 21:30:33] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/resume.php:4) in /home/daehjeon/public_html/resume.php on line 6
+[13-Apr-2012 21:30:34] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/resume.php:4) in /home/daehjeon/public_html/resume.php on line 6
+[13-Apr-2012 21:30:35] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/resume.php:4) in /home/daehjeon/public_html/resume.php on line 6
+[13-Apr-2012 21:30:45] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/resume.php:3) in /home/daehjeon/public_html/resume.php on line 5
+[13-Apr-2012 21:30:46] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/resume.php:3) in /home/daehjeon/public_html/resume.php on line 5
+[13-Apr-2012 21:30:54] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/resume.php:3) in /home/daehjeon/public_html/resume.php on line 5
+[13-Apr-2012 21:38:45] PHP Parse error:  syntax error, unexpected T_STRING in /home/daehjeon/public_html/logout.php on line 3
+[13-Apr-2012 21:53:02] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/daehjeon/public_html/about.php on line 66
+[13-Apr-2012 21:53:04] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/daehjeon/public_html/about.php on line 66
+[13-Apr-2012 22:01:22] PHP Parse error:  syntax error, unexpected T_BOOLEAN_AND, expecting ')' in /home/daehjeon/public_html/about.php on line 75
+[13-Apr-2012 22:01:23] PHP Parse error:  syntax error, unexpected T_BOOLEAN_AND, expecting ')' in /home/daehjeon/public_html/about.php on line 75
+[13-Apr-2012 22:01:50] PHP Parse error:  syntax error, unexpected '{' in /home/daehjeon/public_html/about.php on line 77
+[13-Apr-2012 22:01:52] PHP Parse error:  syntax error, unexpected '{' in /home/daehjeon/public_html/about.php on line 77
+[13-Apr-2012 22:06:03] PHP Parse error:  syntax error, unexpected T_EXIT in /home/daehjeon/public_html/upload.php on line 4
+[13-Apr-2012 22:06:09] PHP Parse error:  syntax error, unexpected ';' in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:06:10] PHP Parse error:  syntax error, unexpected ';' in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:06:12] PHP Parse error:  syntax error, unexpected ';' in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:45] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:46] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:46] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:46] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:46] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:46] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:47] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:47] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:47] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:47] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:48] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:48] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:48] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:48] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:48] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:49] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:49] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:49] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:49] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:50] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:50] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:50] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:50] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:50] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:51] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:51] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:51] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:51] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:52] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:52] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:52] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:52] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:52] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:53] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:53] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:53] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:53] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:54] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:54] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:54] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:54] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:55] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:55] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:55] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:55] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:55] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:56] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:56] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:56] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:56] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:57] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:57] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:57] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:57] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:57] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:58] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:58] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:58] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:58] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:58] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:59] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:59] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:59] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:59] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:08:59] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:00] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:00] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:00] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:00] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:00] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:01] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:01] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:01] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:01] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:01] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:02] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:02] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:02] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:02] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:03] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:03] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:03] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:03] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:03] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:04] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:04] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:04] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:04] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:04] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:05] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:05] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:05] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:05] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:06] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:06] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:06] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:06] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:06] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:07] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:07] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:07] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:07] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:08] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:08] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:08] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:08] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:08] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:09] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:09] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:09] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:09] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:09] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:10] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:10] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:10] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:10] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:11] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:09:11] PHP Warning:  Wrong parameter count for strstr() in /home/daehjeon/public_html/upload.php on line 3
+[13-Apr-2012 22:16:13] PHP Parse error:  syntax error, unexpected T_EXIT in /home/daehjeon/public_html/upload.php on line 5
+[13-Apr-2012 22:52:41] PHP Parse error:  syntax error, unexpected T_IF in /home/daehjeon/public_html/upload.php on line 6
+[13-Apr-2012 23:15:28] PHP Fatal error:  Call to undefined function  mysql_num_result() in /home/daehjeon/public_html/resume.php on line 15
+[13-Apr-2012 23:15:29] PHP Fatal error:  Call to undefined function  mysql_num_result() in /home/daehjeon/public_html/resume.php on line 15
+[13-Apr-2012 23:16:42] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/daehjeon/public_html/download.php on line 42
+[13-Apr-2012 23:16:53] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/daehjeon/public_html/download.php on line 42
+[13-Apr-2012 23:35:13] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: pkey not found in MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[13-Apr-2012 23:35:13] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: pkey not found in MySQL result index 4 in /home/daehjeon/public_html/index.php on line 54
+[13-Apr-2012 23:36:09] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: pkey not found in MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[13-Apr-2012 23:36:09] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: pkey not found in MySQL result index 4 in /home/daehjeon/public_html/index.php on line 54
+[13-Apr-2012 23:36:12] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: pkey not found in MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[13-Apr-2012 23:36:12] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: pkey not found in MySQL result index 4 in /home/daehjeon/public_html/index.php on line 54
+[13-Apr-2012 23:36:17] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: pkey not found in MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[13-Apr-2012 23:36:17] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: pkey not found in MySQL result index 4 in /home/daehjeon/public_html/index.php on line 54
+[13-Apr-2012 23:48:19] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 4 in /home/daehjeon/public_html/resume.php on line 38
+[13-Apr-2012 23:50:44] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 4 in /home/daehjeon/public_html/resume.php on line 38
+[13-Apr-2012 23:51:07] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 4 in /home/daehjeon/public_html/resume.php on line 38
+[13-Apr-2012 23:51:12] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 4 in /home/daehjeon/public_html/resume.php on line 38
+[13-Apr-2012 23:51:44] PHP Parse error:  syntax error, unexpected ';' in /home/daehjeon/public_html/resume.php on line 38
+[13-Apr-2012 23:52:13] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 4 in /home/daehjeon/public_html/resume.php on line 38
+[13-Apr-2012 23:52:24] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 4 in /home/daehjeon/public_html/resume.php on line 38
+[13-Apr-2012 23:52:59] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 4 in /home/daehjeon/public_html/resume.php on line 38
+[13-Apr-2012 23:53:00] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 4 in /home/daehjeon/public_html/resume.php on line 38
+[13-Apr-2012 23:53:04] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 4 in /home/daehjeon/public_html/resume.php on line 38
+[13-Apr-2012 23:53:29] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 4 in /home/daehjeon/public_html/resume.php on line 15
+[13-Apr-2012 23:53:30] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 4 in /home/daehjeon/public_html/resume.php on line 40
+[13-Apr-2012 23:53:31] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 4 in /home/daehjeon/public_html/resume.php on line 15
+[13-Apr-2012 23:53:31] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 4 in /home/daehjeon/public_html/resume.php on line 40
+[14-Apr-2012 10:34:52] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 10
+[14-Apr-2012 10:34:52] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 11
+[14-Apr-2012 10:34:52] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 13
+[14-Apr-2012 10:34:52] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 14
+[14-Apr-2012 10:34:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:10) in /home/daehjeon/public_html/download.php on line 16
+[14-Apr-2012 10:34:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:10) in /home/daehjeon/public_html/download.php on line 17
+[14-Apr-2012 10:34:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:10) in /home/daehjeon/public_html/download.php on line 18
+[14-Apr-2012 10:34:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:10) in /home/daehjeon/public_html/download.php on line 19
+[14-Apr-2012 10:34:52] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 22
+[14-Apr-2012 17:52:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/about.php on line 72
+[14-Apr-2012 17:54:09] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 4 in /home/daehjeon/public_html/about.php on line 12
+[14-Apr-2012 17:54:09] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 4 in /home/daehjeon/public_html/about.php on line 74
+[14-Apr-2012 18:11:54] PHP Parse error:  syntax error, unexpected ';' in /home/daehjeon/public_html/about.php on line 60
+[14-Apr-2012 18:33:56] PHP Parse error:  syntax error, unexpected '{', expecting ';' in /home/daehjeon/public_html/about.php on line 70
+[14-Apr-2012 18:41:00] PHP Parse error:  syntax error, unexpected '>' in /home/daehjeon/public_html/about.php on line 65
+[15-Apr-2012 17:16:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 9
+[15-Apr-2012 17:16:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 10
+[15-Apr-2012 17:16:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 11
+[15-Apr-2012 17:16:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 12
+[15-Apr-2012 17:17:04] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 9
+[15-Apr-2012 17:17:04] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 10
+[15-Apr-2012 17:17:04] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 11
+[15-Apr-2012 17:17:04] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 12
+[17-Apr-2012 02:14:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 9
+[17-Apr-2012 02:14:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 10
+[17-Apr-2012 02:14:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 11
+[17-Apr-2012 02:14:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 12
+[17-Apr-2012 05:23:05] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 9
+[17-Apr-2012 05:23:05] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 10
+[17-Apr-2012 05:23:05] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 11
+[17-Apr-2012 05:23:05] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 12
+[17-Apr-2012 08:42:24] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 9
+[17-Apr-2012 08:42:24] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 10
+[17-Apr-2012 08:42:24] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 11
+[17-Apr-2012 08:42:24] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 12
+[17-Apr-2012 08:43:15] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 9
+[17-Apr-2012 08:43:15] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 10
+[17-Apr-2012 08:43:15] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 11
+[17-Apr-2012 08:43:15] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 12
+[17-Apr-2012 08:43:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:9) in /home/daehjeon/public_html/download.php on line 14
+[17-Apr-2012 08:43:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:9) in /home/daehjeon/public_html/download.php on line 15
+[17-Apr-2012 08:43:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:9) in /home/daehjeon/public_html/download.php on line 16
+[17-Apr-2012 08:43:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:9) in /home/daehjeon/public_html/download.php on line 17
+[17-Apr-2012 08:43:15] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 20
+[17-Apr-2012 08:45:07] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 9
+[17-Apr-2012 08:45:07] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 10
+[17-Apr-2012 08:45:07] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 11
+[17-Apr-2012 08:45:07] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 12
+[17-Apr-2012 08:45:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:9) in /home/daehjeon/public_html/download.php on line 14
+[17-Apr-2012 08:45:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:9) in /home/daehjeon/public_html/download.php on line 15
+[17-Apr-2012 08:45:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:9) in /home/daehjeon/public_html/download.php on line 16
+[17-Apr-2012 08:45:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:9) in /home/daehjeon/public_html/download.php on line 17
+[17-Apr-2012 08:45:07] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 20
+[17-Apr-2012 08:59:05] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 4 on MySQL result index 5 in /home/daehjeon/public_html/about.php on line 26
+[17-Apr-2012 09:14:56] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 39
+[17-Apr-2012 09:28:39] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:28:39] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:29:58] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:29:58] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:29:58] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 55
+[17-Apr-2012 09:30:25] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:30:25] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:30:25] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/index.php on line 55
+[17-Apr-2012 09:30:45] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 39
+[17-Apr-2012 09:31:24] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:31:24] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:31:24] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/index.php on line 55
+[17-Apr-2012 09:31:49] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:31:49] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:33:50] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/daehjeon/public_html/index.php on line 9
+[17-Apr-2012 09:34:32] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:34:32] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:34:33] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:34:33] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:35:09] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:35:09] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:35:27] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 39
+[17-Apr-2012 09:35:28] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:35:28] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:35:45] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 39
+[17-Apr-2012 09:36:12] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 39
+[17-Apr-2012 09:36:36] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 39
+[17-Apr-2012 09:38:47] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 39
+[17-Apr-2012 09:39:58] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:39:58] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:40:09] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:40:09] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 09:48:46] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 35
+[17-Apr-2012 09:48:46] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 40
+[17-Apr-2012 09:49:21] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 35
+[17-Apr-2012 09:49:21] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 40
+[17-Apr-2012 09:50:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 35
+[17-Apr-2012 09:50:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 40
+[17-Apr-2012 09:50:39] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 35
+[17-Apr-2012 09:50:39] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 40
+[17-Apr-2012 09:50:50] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 35
+[17-Apr-2012 09:50:50] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 40
+[17-Apr-2012 09:50:51] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 35
+[17-Apr-2012 09:50:51] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 40
+[17-Apr-2012 09:51:23] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 36
+[17-Apr-2012 09:51:23] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 41
+[17-Apr-2012 09:52:03] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 35
+[17-Apr-2012 09:52:03] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 40
+[17-Apr-2012 09:52:34] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 35
+[17-Apr-2012 09:52:34] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 40
+[17-Apr-2012 09:52:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 35
+[17-Apr-2012 09:52:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 40
+[17-Apr-2012 09:52:37] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 35
+[17-Apr-2012 09:52:37] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 40
+[17-Apr-2012 09:52:52] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 35
+[17-Apr-2012 09:52:52] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 40
+[17-Apr-2012 09:52:53] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 35
+[17-Apr-2012 09:52:53] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 40
+[17-Apr-2012 09:52:54] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 35
+[17-Apr-2012 09:52:54] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 40
+[17-Apr-2012 09:53:09] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 37
+[17-Apr-2012 09:53:09] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 42
+[17-Apr-2012 09:53:10] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 37
+[17-Apr-2012 09:53:10] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 42
+[17-Apr-2012 09:53:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 35
+[17-Apr-2012 09:53:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 40
+[17-Apr-2012 09:53:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 35
+[17-Apr-2012 09:53:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 40
+[17-Apr-2012 09:53:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 35
+[17-Apr-2012 09:53:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 40
+[17-Apr-2012 09:54:09] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 38
+[17-Apr-2012 09:54:09] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 43
+[17-Apr-2012 09:54:30] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 38
+[17-Apr-2012 09:54:30] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 43
+[17-Apr-2012 09:54:46] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 35
+[17-Apr-2012 09:54:46] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 40
+[17-Apr-2012 09:54:47] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 35
+[17-Apr-2012 09:54:47] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 40
+[17-Apr-2012 09:55:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 38
+[17-Apr-2012 09:55:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 43
+[17-Apr-2012 09:55:48] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 35
+[17-Apr-2012 09:55:48] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 40
+[17-Apr-2012 09:56:56] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/work.php:1) in /home/daehjeon/public_html/config.php on line 3
+[17-Apr-2012 09:56:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 36
+[17-Apr-2012 09:56:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 37
+[17-Apr-2012 09:56:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 42
+[17-Apr-2012 09:56:57] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/daehjeon/public_html/work.php:1) in /home/daehjeon/public_html/config.php on line 3
+[17-Apr-2012 09:56:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 36
+[17-Apr-2012 09:56:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 37
+[17-Apr-2012 09:56:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 42
+[17-Apr-2012 09:57:07] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 36
+[17-Apr-2012 09:57:07] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 37
+[17-Apr-2012 09:57:07] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/work.php on line 42
+[17-Apr-2012 10:08:54] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 39
+[17-Apr-2012 10:08:58] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 39
+[17-Apr-2012 10:13:32] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 39
+[17-Apr-2012 10:13:42] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 10:13:42] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 10:23:23] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 10:23:23] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 10:23:28] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 10:23:28] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 10:39:39] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 39
+[17-Apr-2012 10:40:09] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 39
+[17-Apr-2012 10:40:25] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 39
+[17-Apr-2012 10:42:08] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 39
+[17-Apr-2012 10:42:09] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 10:42:09] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 10:42:41] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 10:42:41] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 11:56:11] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 39
+[17-Apr-2012 13:19:57] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 39
+[17-Apr-2012 19:01:24] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 19:01:24] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 19:04:40] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 19:04:40] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 19:04:42] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 19:04:42] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 19:08:37] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 19:08:37] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 19:09:19] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 39
+[17-Apr-2012 19:09:33] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 39
+[17-Apr-2012 19:09:34] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 19:09:34] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 22:41:17] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[17-Apr-2012 22:41:17] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[18-Apr-2012 07:19:32] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 39
+[18-Apr-2012 09:12:11] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 15
+[18-Apr-2012 09:12:11] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 41
+[18-Apr-2012 09:12:12] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 15
+[18-Apr-2012 09:12:12] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 41
+[18-Apr-2012 09:12:29] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 15
+[18-Apr-2012 09:12:29] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 41
+[18-Apr-2012 09:12:30] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 15
+[18-Apr-2012 09:12:30] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 41
+[18-Apr-2012 09:12:53] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 17
+[18-Apr-2012 09:12:53] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 43
+[18-Apr-2012 09:13:25] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 17
+[18-Apr-2012 09:13:25] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 43
+[18-Apr-2012 09:13:26] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 17
+[18-Apr-2012 09:13:26] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 43
+[18-Apr-2012 09:13:27] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 17
+[18-Apr-2012 09:13:27] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/resume.php on line 43
+[18-Apr-2012 09:14:09] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[18-Apr-2012 09:14:09] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[18-Apr-2012 09:45:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 9
+[18-Apr-2012 09:45:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 10
+[18-Apr-2012 09:45:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 11
+[18-Apr-2012 09:45:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 12
+[18-Apr-2012 09:45:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:9) in /home/daehjeon/public_html/download.php on line 15
+[18-Apr-2012 09:45:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:9) in /home/daehjeon/public_html/download.php on line 16
+[18-Apr-2012 09:45:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:9) in /home/daehjeon/public_html/download.php on line 17
+[18-Apr-2012 09:45:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:9) in /home/daehjeon/public_html/download.php on line 18
+[18-Apr-2012 09:45:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 23
+[19-Apr-2012 19:50:32] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[19-Apr-2012 19:50:32] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[19-Apr-2012 19:57:19] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[19-Apr-2012 19:57:19] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[19-Apr-2012 19:57:31] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[19-Apr-2012 19:57:31] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[19-Apr-2012 19:57:32] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[19-Apr-2012 19:57:32] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[20-Apr-2012 10:46:57] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[20-Apr-2012 10:46:57] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[20-Apr-2012 13:08:11] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[20-Apr-2012 13:08:11] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[20-Apr-2012 13:08:33] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[20-Apr-2012 13:08:33] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[21-Apr-2012 08:19:14] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[21-Apr-2012 08:19:14] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[21-Apr-2012 08:19:20] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[21-Apr-2012 08:19:20] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[21-Apr-2012 08:25:46] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[21-Apr-2012 08:25:46] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[21-Apr-2012 08:29:34] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[21-Apr-2012 08:29:34] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[21-Apr-2012 08:30:06] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[21-Apr-2012 08:30:06] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[21-Apr-2012 08:30:26] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[21-Apr-2012 08:30:26] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[21-Apr-2012 19:48:03] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[21-Apr-2012 19:48:03] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 11:04:29] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 11:04:29] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 11:05:18] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 11:05:18] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 11:05:29] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 11:05:29] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 11:05:33] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 11:05:33] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 11:05:40] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 11:05:40] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 11:05:47] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 11:05:47] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 11:05:51] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 11:05:51] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 21:12:45] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 21:12:45] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 21:12:49] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 21:12:49] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 21:12:52] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 21:12:52] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 21:12:54] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 21:12:54] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 21:12:58] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 21:12:58] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 21:13:29] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 21:13:29] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 21:13:35] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 21:13:35] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 21:13:46] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 21:13:46] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 21:16:13] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 21:16:13] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 21:16:16] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[22-Apr-2012 21:16:16] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:04:10] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:04:10] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:04:32] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:04:32] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:04:39] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:04:39] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:05:15] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:05:15] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:05:17] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:05:17] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:05:19] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:05:19] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:05:20] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:05:20] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:05:22] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:05:22] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:05:23] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:05:23] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:05:34] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:05:34] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:05:44] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 09:05:44] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 10:53:16] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 10:53:16] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 10:53:49] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 10:53:49] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 10:53:57] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 10:53:57] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 11:29:14] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[23-Apr-2012 11:29:14] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[24-Apr-2012 11:52:30] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 9
+[24-Apr-2012 11:52:30] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 10
+[24-Apr-2012 11:52:30] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 11
+[24-Apr-2012 11:52:30] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 12
+[24-Apr-2012 11:52:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:9) in /home/daehjeon/public_html/download.php on line 15
+[24-Apr-2012 11:52:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:9) in /home/daehjeon/public_html/download.php on line 16
+[24-Apr-2012 11:52:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:9) in /home/daehjeon/public_html/download.php on line 17
+[24-Apr-2012 11:52:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:9) in /home/daehjeon/public_html/download.php on line 18
+[24-Apr-2012 11:52:30] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 23
+[24-Apr-2012 15:28:04] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[24-Apr-2012 15:28:04] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[27-Apr-2012 00:19:37] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[27-Apr-2012 00:19:37] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[27-Apr-2012 07:45:03] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[27-Apr-2012 07:45:03] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[27-Apr-2012 09:01:43] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[27-Apr-2012 09:01:43] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[27-Apr-2012 21:47:01] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[27-Apr-2012 21:47:01] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[27-Apr-2012 23:57:15] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[27-Apr-2012 23:57:15] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[28-Apr-2012 00:58:02] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[28-Apr-2012 00:58:02] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[28-Apr-2012 02:05:43] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[28-Apr-2012 02:05:43] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[28-Apr-2012 03:05:41] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[28-Apr-2012 03:05:41] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[28-Apr-2012 10:59:25] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[28-Apr-2012 10:59:25] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[28-Apr-2012 21:30:25] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[28-Apr-2012 21:30:25] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[28-Apr-2012 21:32:37] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[28-Apr-2012 21:32:37] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[29-Apr-2012 04:01:56] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[29-Apr-2012 04:01:56] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[29-Apr-2012 04:09:27] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[29-Apr-2012 04:09:27] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[29-Apr-2012 17:56:15] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[29-Apr-2012 17:56:15] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[29-Apr-2012 21:42:29] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[29-Apr-2012 21:42:29] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[29-Apr-2012 21:46:46] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[29-Apr-2012 21:46:46] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[29-Apr-2012 21:46:46] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[29-Apr-2012 21:46:46] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[29-Apr-2012 21:46:59] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[29-Apr-2012 21:46:59] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[29-Apr-2012 21:51:16] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[29-Apr-2012 21:51:16] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 5 in /home/daehjeon/public_html/index.php on line 53
+[29-Apr-2012 21:55:48] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 9
+[29-Apr-2012 21:55:48] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 10
+[29-Apr-2012 21:55:48] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 11
+[29-Apr-2012 21:55:48] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 12
+[29-Apr-2012 21:55:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:9) in /home/daehjeon/public_html/download.php on line 15
+[29-Apr-2012 21:55:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:9) in /home/daehjeon/public_html/download.php on line 16
+[29-Apr-2012 21:55:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:9) in /home/daehjeon/public_html/download.php on line 17
+[29-Apr-2012 21:55:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daehjeon/public_html/download.php:9) in /home/daehjeon/public_html/download.php on line 18
+[29-Apr-2012 21:55:48] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/download.php on line 23
+[30-Apr-2012 07:56:16] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/index.php on line 28
+[30-Apr-2012 07:56:16] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/index.php on line 28
+[30-Apr-2012 07:56:16] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/daehjeon/public_html/index.php on line 28
+[03-May-2012 09:55:58] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: desc_id not found in MySQL result index 4 in /home/daehjeon/public_html/work.php on line 51
+[03-May-2012 09:55:58] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: desc_id not found in MySQL result index 4 in /home/daehjeon/public_html/work.php on line 51
+[03-May-2012 09:55:58] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: desc_id not found in MySQL result index 4 in /home/daehjeon/public_html/work.php on line 51
+[03-May-2012 09:56:03] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: desc_id not found in MySQL result index 4 in /home/daehjeon/public_html/work.php on line 51
+[03-May-2012 09:56:03] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: desc_id not found in MySQL result index 4 in /home/daehjeon/public_html/work.php on line 51
+[03-May-2012 09:56:03] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: desc_id not found in MySQL result index 4 in /home/daehjeon/public_html/work.php on line 51
